@@ -6,7 +6,7 @@
 1. assume a[0]= larger.
 2. compare with other element.
 3. a[i]>larger .print a[i]= largest.
-   ----
+  
 **SOLUTION:** IN JAVA
 ```java
 import java.util.* ;
