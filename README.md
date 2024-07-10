@@ -20,7 +20,7 @@ public class Solution {
 
     static int largestElement(int[] arr, int n) {
         int largestElement=arr[0];
-        for(i =0,i<n-1;i++){
+        for(i =0;i<n-1;i++){
             largestElement=arr[i];
 
         }
