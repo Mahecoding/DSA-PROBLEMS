@@ -40,7 +40,7 @@ public class Solution {
 1. take a[0] as temp
 2. iterate the array from the 0th index to the n-1th index(to prevent its segmentation fault we will iterate it till n-1.)
 3. put the value of temp  in the last index of the array.(a[n-1])
-<img src="
+<img src="movearrayby1.png"/>
 
 **SOLUTION:** IN JAVA
 ```java
