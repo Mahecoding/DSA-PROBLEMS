@@ -30,7 +30,7 @@ public class Solution {
 }
 ```
 
-1.Time Complexity:  **O(n)**
+1.Time Complexity:  **O(n)** <br/>
 2. Space Complexity:  **O(1)**
 
 [**Refer this**](https://youtu.be/37E9ckMDdTk?si=wHRlktwzjngsqNuk)
