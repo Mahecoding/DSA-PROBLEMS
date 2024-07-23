@@ -119,7 +119,7 @@ public class Solution {
 
 ---
 
-**Approach: OPTIMAL SOLUTION **
+**Approach: OPTIMAL SOLUTION**
 1. Initialize Variables:
 
 Set a variable j to -1. This will be used to track the position of the first zero found.
